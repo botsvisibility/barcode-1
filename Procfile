@@ -1,1 +1,1 @@
-web: gnicnorn main:app 
+web: gnicnorn app:app 
